@@ -1,0 +1,4 @@
+﻿  RepoProject.cpp
+D:\repo\RepoProject\RepoProject\RepoProject.cpp(10,33) : warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\repo\RepoProject\RepoProject\RepoProject.cpp(22,20) : warning C4018: <=: несоответствие типов со знаком и без знака
+  RepoProject.vcxproj -> D:\repo\RepoProject\Debug\RepoProject.exe
